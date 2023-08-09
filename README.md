@@ -7,5 +7,5 @@ Built an interactive dashboard for data visualisation about Data jobs using Powe
 ![Screenshot](https://github.com/JackLai6726/Files/blob/main/ghBI.png?raw=true)
 
 - Cleaned some of the data up to make data visualisation easier to look at
-- Could've cleaned data up much better in Excel but figured I'd use PowerBI exclusively for this project
+- Could've cleaned data up much better in Excel but figured I'd use PowerBI exclusively for this project, so I used the split column function to filter out data starting with ( and deleted that data
 - Used appropriate charts to highlight different types of data, making the visualisation more meaningful
